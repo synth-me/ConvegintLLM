@@ -1,0 +1,10 @@
+openai 
+sqlite3
+json
+difflib
+customtkinter
+pyautogui
+plyer
+pyperclip
+keyboard
+tokencost
